@@ -1,0 +1,19 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+.wrap {
+	padding-top: 20px;
+}
+.content {
+	font: 14px/16px Arial, Helvetica;
+	display: block;
+	width: 90%;
+	max-width: 1000px;
+	margin: 0 auto;
+	color: #000;
+	background: #ffffff;
+	padding: 10px;
+	box-sizing: border-box;
+}
