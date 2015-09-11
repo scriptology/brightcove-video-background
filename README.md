@@ -10,7 +10,7 @@ Demo - http://scriptology.ru/video/
 http://players.brightcove.net/videojs-ima3/videojs.ima3.min.js
 http://HOST/videojs/videojs-background.js
 ```
-4. Click in the CSS row and paste in the following URL which points to the stylesheet for the IMA Plugin.
+4. Click in the CSS row and paste in the following URL which points to the styles.
 ```
 http://players.brightcove.net/videojs-ima3/videojs.ima3.min.css
 http://HOST/videojs/video-js.css
